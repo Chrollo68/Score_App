@@ -1,0 +1,1 @@
+ D:\\tejas_scorecardapp\\.dart_tool\\flutter_build\\50b78c0b2ef8979bf4152082a330d3f5\\native_assets.yaml: 
