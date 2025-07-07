@@ -31,9 +31,9 @@ flutter_lints
 file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2/
 file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2/lib/
 http
-3.4
-file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.4.0/
-file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.4.0/lib/
+2.19
+file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6/
+file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6/lib/
 http_parser
 2.12
 file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/
@@ -114,10 +114,6 @@ vm_service
 3.3
 file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.1/
 file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.1/lib/
-web
-3.4
-file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1/
-file:///C:/Users/Global/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1/lib/
 sky_engine
 3.2
 file:///C:/Users/Global/Downloads/flutter_windows_3.22.1-stable/flutter/bin/cache/pkg/sky_engine/
